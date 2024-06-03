@@ -3,6 +3,8 @@
 <!--Writerside adds this topic when you create a new documentation project.
 You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.-->
 
+<img src="game_engine_logo.png" alt="Game Engine Logo" width="120" border-effect="line"/>
+
 > This is the docs page of Unified Game Engine
 
 This project is a simple game engine where all components are configured through code, there is no UI based editor allowing this to be slightly more lightweight and portable.
